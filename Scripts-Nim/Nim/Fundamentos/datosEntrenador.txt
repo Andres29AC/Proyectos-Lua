@@ -1,0 +1,13 @@
+Nombre del entrenador: Tobias
+Edad del entrenador: 24
+Region del entrenador: Paldea
+Numero de medallas: 8
+Nombre del pokemon: Darkrai
+Tipo del pokemon: Siniestro
+Naturaleza del pokemon: Activa
+Vida del pokemon: 300
+Ataque del pokemon: 290
+Defensa del pokemon: 300
+Ataque Especial del pokemon: 300
+Defensa Especial del pokemon: 295
+Velocidad del pokemon: 300
