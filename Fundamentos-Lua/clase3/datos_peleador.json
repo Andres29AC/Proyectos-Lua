@@ -1,0 +1,21 @@
+{
+    "tecnicas": [
+        "codo invisible",
+        "zona",
+        "respiracion antigua"
+    ],
+    "edad": "24",
+    "nombre": "Frank",
+    "estadisticas": {
+        "altura": "1.78",
+        "peso": "67 Kilos"
+    },
+    "arteMarcial": {
+        "origen": "Taiwan",
+        "nombre": "Silat"
+    },
+    "empresa": {
+        "objetivo": "Exportacion de Peces",
+        "nombre": "Factoring Corps"
+    }
+}

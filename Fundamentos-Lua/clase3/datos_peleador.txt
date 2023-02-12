@@ -1,0 +1,9 @@
+Nombre: Frank
+Edad: 24
+Arte marcial: Silat
+Origen: Taiwan
+Altura: 1.78
+Peso: 67 Kilos
+Tecnicas: codo invisible, zona, respiracion antigua, 
+Empresa: Factoring Corps
+Objetivo: Exportacion de Peces
